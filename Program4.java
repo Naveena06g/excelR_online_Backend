@@ -45,3 +45,22 @@ System.out.println(a+b+c); //20java
    
 }
 }
+
+
+/*
+Number data type-Interger data type 1,100,3445,3489654
+                -Decimal data type 140.02 , 500.33, 20.00
+        Integer:
+              byte, short , int ,long
+        Decimal :
+              double , float
+ 
+character datatype-a, b, c, $,
+                  -it need to annotate with singlequote(' ');
+                  
+String datatype - banana , apple , apple12 , red#blue
+                -collection of characters
+                - it need to annotate with doublequote(" ")
+boolean datatype -true /false
+*/
+
